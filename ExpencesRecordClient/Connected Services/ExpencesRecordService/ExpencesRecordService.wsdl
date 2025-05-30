@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="addCategory">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="type" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addCategoryResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="addCategoryResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addExpences">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="type" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="des" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="amount" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="date" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="eid" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addExpencesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="addExpencesResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="removeExpences">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="removeExpencesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="removeExpencesResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="addCategorySoapIn">
+    <wsdl:part name="parameters" element="tns:addCategory" />
+  </wsdl:message>
+  <wsdl:message name="addCategorySoapOut">
+    <wsdl:part name="parameters" element="tns:addCategoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="addExpencesSoapIn">
+    <wsdl:part name="parameters" element="tns:addExpences" />
+  </wsdl:message>
+  <wsdl:message name="addExpencesSoapOut">
+    <wsdl:part name="parameters" element="tns:addExpencesResponse" />
+  </wsdl:message>
+  <wsdl:message name="removeExpencesSoapIn">
+    <wsdl:part name="parameters" element="tns:removeExpences" />
+  </wsdl:message>
+  <wsdl:message name="removeExpencesSoapOut">
+    <wsdl:part name="parameters" element="tns:removeExpencesResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ExpencesRecordServiceSoap">
+    <wsdl:operation name="addCategory">
+      <wsdl:input message="tns:addCategorySoapIn" />
+      <wsdl:output message="tns:addCategorySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="addExpences">
+      <wsdl:input message="tns:addExpencesSoapIn" />
+      <wsdl:output message="tns:addExpencesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="removeExpences">
+      <wsdl:input message="tns:removeExpencesSoapIn" />
+      <wsdl:output message="tns:removeExpencesSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ExpencesRecordServiceSoap" type="tns:ExpencesRecordServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="addCategory">
+      <soap:operation soapAction="http://tempuri.org/addCategory" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addExpences">
+      <soap:operation soapAction="http://tempuri.org/addExpences" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="removeExpences">
+      <soap:operation soapAction="http://tempuri.org/removeExpences" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ExpencesRecordServiceSoap12" type="tns:ExpencesRecordServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="addCategory">
+      <soap12:operation soapAction="http://tempuri.org/addCategory" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addExpences">
+      <soap12:operation soapAction="http://tempuri.org/addExpences" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="removeExpences">
+      <soap12:operation soapAction="http://tempuri.org/removeExpences" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ExpencesRecordService">
+    <wsdl:port name="ExpencesRecordServiceSoap" binding="tns:ExpencesRecordServiceSoap">
+      <soap:address location="https://localhost:44302/ExpencesRecordService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ExpencesRecordServiceSoap12" binding="tns:ExpencesRecordServiceSoap12">
+      <soap12:address location="https://localhost:44302/ExpencesRecordService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,118 @@
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\ExpencesRecordServer.dll.config
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\ExpencesRecordServer.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\ExpencesRecordServer.pdb
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\obj\Debug\ExpencesRecordServer.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\obj\Debug\ExpencesRecordServer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\obj\Debug\ExpencesRecordServer.csproj.CopyComplete
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\obj\Debug\ExpencesRecordServer.dll
+C:\Users\Dell\source\repos\ExpencesRecordClient\ExpencesRecordServer\obj\Debug\ExpencesRecordServer.pdb
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\obj\Debug\ExpencesRecordServer.csprojAssemblyReference.cache
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\obj\Debug\ExpencesRecordServer.csproj.CoreCompileInputs.cache
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\obj\Debug\ExpencesRecordServer.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\obj\Debug\ExpencesRecordServer.pdb
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\ExpencesRecordServer.dll.config
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\ExpencesRecordServer.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\ExpencesRecordServer.pdb
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\csc.exe
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\csc.exe.config
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\csc.rsp
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\csi.exe
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\csi.exe.config
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\csi.rsp
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.AppContext.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Collections.Immutable.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Console.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Globalization.Calendars.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.IO.Compression.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.IO.FileSystem.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Net.Http.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Net.Sockets.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Reflection.Metadata.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.ValueTuple.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Xml.XPath.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\vbc.exe
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\vbc.exe.config
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\vbc.rsp
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\VBCSCompiler.exe
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\roslyn\VBCSCompiler.exe.config
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Semester 3\Web Programming\ExpencesRecordClient\ExpencesRecordServer\obj\Debug\ExpencesRecordServer.csproj.CopyComplete

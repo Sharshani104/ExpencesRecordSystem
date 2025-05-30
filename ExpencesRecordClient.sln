@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpencesRecordClient", "ExpencesRecordClient\ExpencesRecordClient.csproj", "{12A4B556-3C9D-4E95-8A42-ABD2BA05D9DC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FFA3BE2A-7176-4290-9FF3-1D27DE82E87A} = {FFA3BE2A-7176-4290-9FF3-1D27DE82E87A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpencesRecordServer", "ExpencesRecordServer\ExpencesRecordServer.csproj", "{FFA3BE2A-7176-4290-9FF3-1D27DE82E87A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12A4B556-3C9D-4E95-8A42-ABD2BA05D9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A4B556-3C9D-4E95-8A42-ABD2BA05D9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A4B556-3C9D-4E95-8A42-ABD2BA05D9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A4B556-3C9D-4E95-8A42-ABD2BA05D9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA3BE2A-7176-4290-9FF3-1D27DE82E87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA3BE2A-7176-4290-9FF3-1D27DE82E87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA3BE2A-7176-4290-9FF3-1D27DE82E87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA3BE2A-7176-4290-9FF3-1D27DE82E87A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96E5D3D7-15C9-44D1-A6EB-C33447317C57}
+	EndGlobalSection
+EndGlobal
